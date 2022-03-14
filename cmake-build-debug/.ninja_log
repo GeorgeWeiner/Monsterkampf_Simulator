@@ -1,0 +1,13 @@
+# ninja log v5
+13	292	6689617306858221	CMakeFiles/cpluspluspractice.dir/my_class.cpp.obj	a1395f5dad7c76f8
+302	416	6689770837157106	cpluspluspractice.exe	6c20dde9f3171148
+2	261	6689720851394837	CMakeFiles/cpluspluspractice.dir/main.cpp.obj	4adf8fe85cb3585b
+0	361	6689614893357155	CMakeFiles/cpluspluspractice.dir/some_file.cpp.obj	382a69b0cf4f2240
+16	239	6689715106348194	CMakeFiles/cpluspluspractice.dir/monster.cpp.obj	9f56fb5a22773e0c
+14	320	6689720851994972	CMakeFiles/cpluspluspractice.dir/monster_fight.cpp.obj	4551d1598677ff21
+13	258	6689762879275129	CMakeFiles/cpluspluspractice.dir/Monsterkampf-Simulator/monster.cpp.obj	860fc0411b361a64
+1	184	6689838771909523	build.ninja	a30000c4a008ad27
+10	266	6689762879355151	CMakeFiles/cpluspluspractice.dir/Monsterkampf-Simulator/main.cpp.obj	7ac74f330cdfc557
+14	319	6689747437724370	CMakeFiles/cpluspluspractice.dir/Monsterkampf-Simulator/monster_fight.cpp.obj	99f7061967ec8c39
+3	301	6689770836036853	CMakeFiles/cpluspluspractice.dir/Monsterkampf-Simulator/monster_creator.cpp.obj	b724bd26bb91007c
+3	339	6689762880096769	CMakeFiles/cpluspluspractice.dir/Monsterkampf-Simulator/Monster_Fight.cpp.obj	a9d03a5a8f259314
